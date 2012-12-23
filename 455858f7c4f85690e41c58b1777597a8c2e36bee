@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbH//8VY\u003d",
+        "filename": "cm.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2012-12-23T02:52:02Z",
+      "side": 1,
+      "message": "still 4.2.1 here\n\ndid you forget to git add before your amend?",
+      "revId": "455858f7c4f85690e41c58b1777597a8c2e36bee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
