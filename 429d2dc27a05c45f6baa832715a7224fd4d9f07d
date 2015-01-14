@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a9d85d2_53a75c4f",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 5589
+      },
+      "writtenOn": "2015-01-14T14:57:59Z",
+      "side": 1,
+      "message": "Build fingerprint d2att?",
+      "revId": "429d2dc27a05c45f6baa832715a7224fd4d9f07d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
