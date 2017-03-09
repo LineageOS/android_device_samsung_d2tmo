@@ -18,7 +18,7 @@
 
 set -e
 
-export DEVICE=d2att
+export DEVICE=d2tmo
 export VENDOR=samsung
 
 ./../d2-common/setup-makefiles.sh $@
